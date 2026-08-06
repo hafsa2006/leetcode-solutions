@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/hafsa2006/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/hafsa2006/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hafsa2006/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hafsa2006/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Binary Search
 |  |
 | ------- |
