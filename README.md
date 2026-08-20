@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/hafsa2006/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hafsa2006/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/hafsa2006/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hafsa2006/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hafsa2006/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hafsa2006/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hafsa2006/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hafsa2006/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
