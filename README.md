@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/hafsa2006/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hafsa2006/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/hafsa2006/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/hafsa2006/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hafsa2006/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hafsa2006/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hafsa2006/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
