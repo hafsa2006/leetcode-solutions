@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hafsa2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hafsa2006/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hafsa2006/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hafsa2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0268-missing-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hafsa2006/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
