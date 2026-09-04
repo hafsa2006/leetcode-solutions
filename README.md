@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/hafsa2006/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/hafsa2006/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/hafsa2006/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0649-dota2-senate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/hafsa2006/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hafsa2006/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
