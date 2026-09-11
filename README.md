@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hafsa2006/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hafsa2006/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hafsa2006/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0649-dota2-senate) |
+## Matrix
+|  |
+| ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hafsa2006/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
