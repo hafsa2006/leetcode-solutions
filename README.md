@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hafsa2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hafsa2006/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/hafsa2006/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/hafsa2006/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/hafsa2006/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1470-shuffle-the-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/hafsa2006/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/hafsa2006/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Pigeonhole Principle
 |  |
