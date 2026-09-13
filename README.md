@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hafsa2006/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hafsa2006/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/hafsa2006/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hafsa2006/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/hafsa2006/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hafsa2006/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hafsa2006/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/hafsa2006/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hafsa2006/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/hafsa2006/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Sorting
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/hafsa2006/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hafsa2006/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
