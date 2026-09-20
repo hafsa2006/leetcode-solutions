@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hafsa2006/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hafsa2006/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2485-find-the-pivot-integer](https://github.com/hafsa2006/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3848-check-digitorial-permutation](https://github.com/hafsa2006/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/hafsa2006/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3848-check-digitorial-permutation](https://github.com/hafsa2006/leetcode-solutions/tree/master/3848-check-digitorial-permutation) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
