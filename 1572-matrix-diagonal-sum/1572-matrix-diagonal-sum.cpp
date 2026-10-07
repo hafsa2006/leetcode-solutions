@@ -8,13 +8,9 @@ public:
         for (int i = 0; i < n; i++) {
             sum += mat[i][i];
         }
-
-        int i = 0;
-        int j = n - 1;
-        while (j >= 0) {
-            sum += mat[i][j];
-            i++;
-            j--;
+        
+        for (int j = n - 1; j >= 0; j--){
+            sum += mat[n - j - 1][j];
         }
 
         if(n%2==1){
