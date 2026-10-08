@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hafsa2006/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hafsa2006/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hafsa2006/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/hafsa2006/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/hafsa2006/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/hafsa2006/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/hafsa2006/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
